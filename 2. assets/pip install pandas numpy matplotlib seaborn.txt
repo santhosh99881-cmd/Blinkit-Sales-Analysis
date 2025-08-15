@@ -1,0 +1,7 @@
+2. Load the dataset `blinkit_data.csv` in the same directory or update path accordingly.
+3. Open and run the Jupyter Notebook `Blinkit-Analysis-using-Python.ipynb` to perform the analysis and view visualizations.
+
+---
+
+*For any questions or clarifications, feel free to contact the project owner.*
+
